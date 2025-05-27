@@ -29,8 +29,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EliSerov&show_icons=true&theme=tokyonight" alt="EliSerov's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliSerov&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
