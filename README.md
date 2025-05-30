@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/ONNX-00246B?style=for-the-badge&logo=onnx&logoColor=72A7FF"/>
   <img src="https://img.shields.io/badge/TensorRT-1B1B1B?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
   <img src="https://img.shields.io/badge/MLflow-0F1E35?style=for-the-badge&logo=mlflow&logoColor=7A9EFF"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-05396B?style=for-the-badge&logo=github-actions&logoColor=70B9FF"/>
   <img src="https://img.shields.io/badge/Airflow-05205A?style=for-the-badge&logo=apache-airflow&logoColor=8DA7F8"/>
   <img src="https://img.shields.io/badge/Docker-0E3D6E?style=for-the-badge&logo=docker&logoColor=63C4FF"/>
   <img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=F05133"/>
