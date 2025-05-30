@@ -1,7 +1,7 @@
 **Hello there! I'm Ilya Serov**👋
 
 **🎓 Master's student in Machine Learning @ MEPhI**  
-**🤖 Junior Computer Vision Engineer**  
+**🤖 Computer Vision Engineer at [ITContact](https://itcontact.ru/)**  
 **🌍 Based in Saint Petersburg 🇷🇺**
 
 ---
@@ -39,6 +39,4 @@
 
 ---
 
-### 🎯 2025 Mission
-
-> "**From Junior to confident Deep Learning engineer**: push every limit."
+### No pressure. I push every limit.
