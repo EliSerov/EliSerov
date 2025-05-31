@@ -28,13 +28,6 @@
 ---
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=EliSerov&show_icons=true&theme=tokyonight" alt="EliSerov's GitHub stats" />
-</p>
-
----
-
-
 ![Ilya's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliSerov&layout=compact&langs_count=8&theme=radical)
 
 ---
