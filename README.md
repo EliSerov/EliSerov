@@ -24,12 +24,3 @@
   <img src="https://img.shields.io/badge/FastAPI-004D39?style=for-the-badge&logo=fastapi&logoColor=81F7B5"/>
   <img src="https://img.shields.io/badge/Flask-0A0A0A?style=for-the-badge&logo=flask&logoColor=D3D3D3"/>
 </p>
-
----
-
-
-![Ilya's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliSerov&layout=compact&langs_count=8&theme=radical)
-
----
-
-### No pressure. I push every limit.
