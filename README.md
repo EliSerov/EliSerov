@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/FastAPI-2E3440?style=for-the-badge&logo=fastapi&logoColor=81A1C1"/>
   <img src="https://img.shields.io/badge/Flask-2E3440?style=for-the-badge&logo=flask&logoColor=D8DEE9"/>
   <img src="https://img.shields.io/badge/MLflow-2E3440?style=for-the-badge&logo=mlflow&logoColor=5E81AC"/>
-  <img src="https://img.shields.io/badge/Airflow-2E3440?style=for-the-badge&logo=apache-airflow&logoColor=88C0D0"/>
+  <img src="https://img.shields.io/badge/Airflow-2E3440?style=for-the-badge&logo=apache-airflow&logoColor=FF0000"/>
   <img src="https://img.shields.io/badge/Docker-3B4252?style=for-the-badge&logo=docker&logoColor=81A1C1"/>
   <img src="https://img.shields.io/badge/Linux-3B4252?style=for-the-badge&logo=linux&logoColor=EBCB8B"/>
   <img src="https://img.shields.io/badge/Git-2E3440?style=for-the-badge&logo=git&logoColor=BF616A"/>
