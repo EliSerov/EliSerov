@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python&logoColor=88C0D0"/>
   <img src="https://img.shields.io/badge/PyTorch-3B4252?style=for-the-badge&logo=pytorch&logoColor=E06F6F"/>
   <img src="https://img.shields.io/badge/TensorFlow-3B4252?style=for-the-badge&logo=tensorflow&logoColor=F9A03C"/>
-  <img src="https://img.shields.io/badge/scikit--learn-4C566A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
   <img src="https://img.shields.io/badge/OpenCV-4C566A?style=for-the-badge&logo=opencv&logoColor=5E81AC"/>
   <img src="https://img.shields.io/badge/ONNX-2E3440?style=for-the-badge&logo=onnx&logoColor=8FBCBB"/>
   <img src="https://img.shields.io/badge/TensorRT-3B4252?style=for-the-badge&logo=nvidia&logoColor=A3BE8C"/>
