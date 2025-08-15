@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Airflow-2E3440?style=for-the-badge&logo=apache-airflow&logoColor=FF0000"/>
   <img src="https://img.shields.io/badge/Docker-3B4252?style=for-the-badge&logo=docker&logoColor=81A1C1"/>
   <img src="https://img.shields.io/badge/Linux-3B4252?style=for-the-badge&logo=linux&logoColor=EBCB8B"/>
-  <img src="https://img.shields.io/badge/Git-2E3440?style=for-the-badge&logo=git&logoColor=BF616A"/>
 </p>
 
 
