@@ -1,4 +1,4 @@
-**Hello there! I'm Ilya**👋
+**Hello there! I'm Ilya**
 
 **🎓 Master's student in Machine Learning @ MEPhI**  
 **🤖 Computer Vision Engineer at [ITContact](https://itcontact.ru/)**  
