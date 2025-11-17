@@ -6,11 +6,11 @@
 
 ---
 
-**Experience with training workflows, deployment, and MLOps tooling. Focus on applied deep learning and infrastructure**
+**Experience with training workflows, deployment, and MLOps tooling. Focus on applied deep learning and infrastructure.**
 
 ---
 
-## Skills & Tools
+## Stack
 
 ### Machine Learning / Deep Learning / CV
 ![Python](https://img.shields.io/badge/Python-D9D9D9?style=flat-square&logo=python&logoColor=3776AB&logoWidth=40)
