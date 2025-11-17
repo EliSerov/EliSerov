@@ -10,19 +10,46 @@
 
 ---
 
-### Tech Stack
+## Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?logo=github&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-013243?logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?logo=dvc&logoColor=white)
-![CVAT](https://img.shields.io/badge/CVAT-FF6B6B?logo=github&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+### Machine Learning / Deep Learning / CV
+![Python](https://img.shields.io/badge/Python-D9D9D9?style=flat-square&logo=python&logoColor=3776AB&logoWidth=40)
+![C++](https://img.shields.io/badge/C++-D9D9D9?style=flat-square&logo=cplusplus&logoColor=00599C&logoWidth=40)
+![PyTorch](https://img.shields.io/badge/PyTorch-D9D9D9?style=flat-square&logo=pytorch&logoColor=EE4C2C&logoWidth=40)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-D9D9D9?style=flat-square&logo=tensorflow&logoColor=FF6F00&logoWidth=40)
+![Keras](https://img.shields.io/badge/Keras-D9D9D9?style=flat-square&logo=keras&logoColor=D00000&logoWidth=40)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-D9D9D9?style=flat-square&logo=github&logoColor=000000&logoWidth=40)
+![OpenCV](https://img.shields.io/badge/OpenCV-D9D9D9?style=flat-square&logo=opencv&logoColor=5C3EE8&logoWidth=40)
+![FastAPI](https://img.shields.io/badge/FastAPI-D9D9D9?style=flat-square&logo=fastapi&logoColor=009688&logoWidth=40)
+![ONNX](https://img.shields.io/badge/ONNX-D9D9D9?style=flat-square&logo=onnx&logoColor=005CED&logoWidth=40)
+![CVAT](https://img.shields.io/badge/CVAT-D9D9D9?style=flat-square&logo=github&logoColor=FF6B6B&logoWidth=40)
+
+---
+
+### MLOps & DevOps
+![Docker](https://img.shields.io/badge/Docker-D9D9D9?style=flat-square&logo=docker&logoColor=2496ED&logoWidth=40)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-D9D9D9?style=flat-square&logo=kubernetes&logoColor=326CE5&logoWidth=40)
+![Terraform](https://img.shields.io/badge/Terraform-D9D9D9?style=flat-square&logo=terraform&logoColor=623CE4&logoWidth=40)
+![Git](https://img.shields.io/badge/Git-D9D9D9?style=flat-square&logo=git&logoColor=F05032&logoWidth=40)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-D9D9D9?style=flat-square&logo=githubactions&logoColor=2088FF&logoWidth=40)
+![MLflow](https://img.shields.io/badge/MLflow-D9D9D9?style=flat-square&logo=mlflow&logoColor=013243&logoWidth=40)
+![DVC](https://img.shields.io/badge/DVC-D9D9D9?style=flat-square&logo=dvc&logoColor=945DD6&logoWidth=40)
+![Prefect](https://img.shields.io/badge/Prefect-D9D9D9?style=flat-square&logo=prefect&logoColor=5B2C6F&logoWidth=40)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-D9D9D9?style=flat-square&logo=kubeflow&logoColor=4285F4&logoWidth=40)
+
+---
+
+### Orchestration & Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-D9D9D9?style=flat-square&logo=prometheus&logoColor=E6522C&logoWidth=40)
+![Grafana](https://img.shields.io/badge/Grafana-D9D9D9?style=flat-square&logo=grafana&logoColor=F46800&logoWidth=40)
+![Airflow](https://img.shields.io/badge/Airflow-D9D9D9?style=flat-square&logo=airflow&logoColor=017CEE&logoWidth=40)
+![Redis](https://img.shields.io/badge/Redis-D9D9D9?style=flat-square&logo=redis&logoColor=d82c20&logoWidth=40)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-D9D9D9?style=flat-square&logo=rabbitmq&logoColor=FF6600&logoWidth=40)
+
+---
+
+### Specialized Tools
+![Evidently AI](https://img.shields.io/badge/Evidently%20AI-D9D9D9?style=flat-square&logoColor=blueviolet&logoWidth=40)
+![WhyLabs](https://img.shields.io/badge/WhyLabs-D9D9D9?style=flat-square&logoColor=05afd6&logoWidth=40)
+
+---
