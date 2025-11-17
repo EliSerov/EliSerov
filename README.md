@@ -1,29 +1,25 @@
-**Hello there! I'm Ilya**
+**Hello, I'm Ilya**
 
-**🎓 Master's student in Machine Learning @ MEPhI**  
-**🤖 Computer Vision Engineer at [ITContact](https://itcontact.ru/)**  
-**🌍 Based in Saint Petersburg 🇷🇺**
-
----
-
-### 🔧 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python&logoColor=88C0D0"/>
-  <img src="https://img.shields.io/badge/PyTorch-3B4252?style=for-the-badge&logo=pytorch&logoColor=E06F6F"/>
-  <img src="https://img.shields.io/badge/TensorFlow-3B4252?style=for-the-badge&logo=tensorflow&logoColor=F9A03C"/>
-  <img src="https://img.shields.io/badge/OpenCV-4C566A?style=for-the-badge&logo=opencv&logoColor=5E81AC"/>
-  <img src="https://img.shields.io/badge/ONNX-2E3440?style=for-the-badge&logo=onnx&logoColor=8FBCBB"/>
-  <img src="https://img.shields.io/badge/TensorRT-3B4252?style=for-the-badge&logo=nvidia&logoColor=A3BE8C"/>
-  <img src="https://img.shields.io/badge/Flask-2E3440?style=for-the-badge&logo=flask&logoColor=D8DEE9"/>
-  <img src="https://img.shields.io/badge/MLflow-2E3440?style=for-the-badge&logo=mlflow&logoColor=5E81AC"/>
-  <img src="https://img.shields.io/badge/Airflow-2E3440?style=for-the-badge&logo=apache-airflow&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/Docker-3B4252?style=for-the-badge&logo=docker&logoColor=81A1C1"/>
-  <img src="https://img.shields.io/badge/Linux-3B4252?style=for-the-badge&logo=linux&logoColor=EBCB8B"/>
-</p>
-
+**Master's student in Machine Learning @ MEPhI**  
+**Computer Vision Engineer at [ITContact](https://itcontact.ru/)**  
+**Based in Saint Petersburg 🇷🇺**
+**Experience with training workflows, deployment, and MLOps tooling. Focus on applied deep learning and infrastructure**
 
 ---
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliSerov&layout=compact&langs_count=6&theme=dark" alt="Top Langs by EliSerov"/>
-</p>
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?logo=github&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-013243?logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?logo=dvc&logoColor=white)
+![CVAT](https://img.shields.io/badge/CVAT-FF6B6B?logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
