@@ -3,6 +3,9 @@
 **Master's student in Machine Learning @ MEPhI**  
 **Computer Vision Engineer at [ITContact](https://itcontact.ru/)**  
 **Based in Saint Petersburg 🇷🇺**
+
+---
+
 **Experience with training workflows, deployment, and MLOps tooling. Focus on applied deep learning and infrastructure**
 
 ---
