@@ -35,6 +35,7 @@
 ![MLflow](https://img.shields.io/badge/MLflow-D9D9D9?style=flat-square&logo=mlflow&logoColor=013243&logoWidth=40)
 ![DVC](https://img.shields.io/badge/DVC-D9D9D9?style=flat-square&logo=dvc&logoColor=945DD6&logoWidth=40)
 ![Prefect](https://img.shields.io/badge/Prefect-D9D9D9?style=flat-square&logo=prefect&logoColor=5B2C6F&logoWidth=40)
+![Evidently AI](https://img.shields.io/badge/Evidently%20AI-D9D9D9?style=flat-square&logoColor=blueviolet&logoWidth=40)
 ![Kubeflow](https://img.shields.io/badge/Kubeflow-D9D9D9?style=flat-square&logo=kubeflow&logoColor=4285F4&logoWidth=40)
 
 ---
@@ -45,11 +46,5 @@
 ![Airflow](https://img.shields.io/badge/Airflow-D9D9D9?style=flat-square&logo=airflow&logoColor=017CEE&logoWidth=40)
 ![Redis](https://img.shields.io/badge/Redis-D9D9D9?style=flat-square&logo=redis&logoColor=d82c20&logoWidth=40)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-D9D9D9?style=flat-square&logo=rabbitmq&logoColor=FF6600&logoWidth=40)
-
----
-
-### Specialized Tools
-![Evidently AI](https://img.shields.io/badge/Evidently%20AI-D9D9D9?style=flat-square&logoColor=blueviolet&logoWidth=40)
-![WhyLabs](https://img.shields.io/badge/WhyLabs-D9D9D9?style=flat-square&logoColor=05afd6&logoWidth=40)
 
 ---
