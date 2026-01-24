@@ -1,7 +1,7 @@
 **Hello, I'm Ilya**
 
 **Master's student in Machine Learning @ MEPhI**  
-**Computer Vision Engineer at [ITContact](https://itcontact.ru/)**  
+**AI Engineer at [ITContact](https://itcontact.ru/)**  
 **Based in Saint Petersburg 🇷🇺**
 
 ---
